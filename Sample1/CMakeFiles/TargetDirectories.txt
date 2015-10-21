@@ -1,0 +1,1 @@
+/home/wusu5545/workspace/OpenCV/exercise/Sample1/CMakeFiles/OpenCV_Sample.dir
